@@ -1,1 +1,1 @@
-[]
+[{"nama": "Diki", "HP": "12313", "email": "diki@gmail.com"}]
